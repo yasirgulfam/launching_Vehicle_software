@@ -1,0 +1,12 @@
+{
+    "peak_N": 9.69228,
+    "t_peak_s": 50.2333,
+    "burn_time_s": 13.850000000000001,
+    "burn_time_uncert_s": 0.25,
+    "impulse_trapz_Ns": 49.521882581999996,
+    "impulse_hold_Ns": 51.263806023000015,
+    "avg_thrust_N": 3.5755871900361003,
+    "n_burn_samples": 14,
+    "t_start_s": 48.8333,
+    "t_end_s": 62.6833
+}

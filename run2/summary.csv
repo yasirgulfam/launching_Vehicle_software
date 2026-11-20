@@ -1,0 +1,2 @@
+label,peak_N,t_peak_s,burn_time_s,burn_time_uncert_s,impulse_trapz_Ns,impulse_hold_Ns,avg_thrust_N,n_burn_samples,t_start_s,t_end_s
+Run 1,8.75052,7.2333,12.5667,0.25,76.26220228800001,81.23409373500002,6.068594164577814,11,7.2333,19.8
